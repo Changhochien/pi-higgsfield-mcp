@@ -7,7 +7,7 @@ Bring AI image/video generation, media uploads, marketing studio, Soul-ID charac
 ## Quick Start
 
 ```bash
-pi install github:tomchangdesign/pi-higgsfield-mcp
+pi install github:Changhochien/pi-higgsfield-mcp
 ```
 
 Then in pi:
