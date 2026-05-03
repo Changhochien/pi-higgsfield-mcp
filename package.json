@@ -1,0 +1,15 @@
+{
+  "name": "pi-higgsfield-mcp",
+  "version": "1.0.0",
+  "description": "Connect Higgsfield AI's MCP server to pi — image/video generation, media uploads, Soul-ID training, and more via OAuth device flow.",
+  "keywords": ["pi-package", "mcp", "higgsfield", "ai-image-generation", "ai-video-generation"],
+  "author": "Chang Tom <hcchangdesign@gmail.com>",
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}
